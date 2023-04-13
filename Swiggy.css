@@ -1,0 +1,231 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    font-family: 'Poppins', sans-serif; 
+}
+
+.main{
+    display: flex;
+    margin-left: 75px;
+}
+.main .left nav{
+    display: flex;
+}
+.img{
+    margin-top: 61px;
+    height: 27.5%;
+    width: 26.5%;
+    padding-left: 1%;
+    
+    
+ }
+.button{
+margin-left: 220px;
+}
+
+.main .food{
+    
+height: 44%;
+width: 44%;
+margin-top: -.5%;
+}
+
+.sign{
+width: 110px;
+height: 40px;
+line-height: 40px;
+background-color: black;
+color: white;
+border: none;
+font-size: 16px;
+cursor: pointer;
+margin-top: 68px;
+font-weight: 600px;
+
+}
+.login{
+    width: 65px;
+    height: 3px;
+    background-color:transparent;
+    color:black;
+    border: none;
+    margin-inline: 10px;
+    font-size: 14px;
+    cursor: pointer;
+    margin-left: 0%;
+    padding-left: 0%;
+    font-weight: bold;
+
+}
+.login :hover{
+    background-color: #FC8019;
+    cursor: pointer;
+}
+
+
+
+.left h1{
+    font-size: 35px;
+    margin-top: 60px;
+}
+.left p{
+    margin-top: 3px;
+    font-size: 22px;
+
+}
+
+.inp{
+    display: flex;
+    margin-top: 38px;
+    
+}
+.inp input{
+    width: 465px;
+    height: 58px;
+    padding-left: 20px;
+    border: 1px solid #c9bebe;
+    border-right:none;
+    font-size: medium;
+    font-weight: 700;
+}
+.inp button{
+    width: 140px;
+    background-color: #FC8019;
+    color: white;
+    cursor: pointer;
+    font-size: 16px;
+    border: none;
+}
+
+.left h2{
+    margin-top: 25px;
+    text-transform: uppercase;
+    font-size: 20px;
+}
+.left h3{
+    text-transform: capitalize;
+    word-spacing: 10px;
+    font-size: 16px;
+}
+.card{
+    display: flex;
+    justify-content: center;
+    justify-content: space-around;
+    background-color:#2b1e16;
+    text-align: center;
+    color: white;
+    padding: 0px 10px 65px 15px; 
+}
+.crd {
+    width: 280px;
+}
+#abc{
+    margin-top: 30px;
+font-size: 17px;
+}
+#para{
+    margin-top: 10px;
+    font-size: 14px;
+}
+.card .crd img{
+width: 105px;
+}
+.rest{
+    display: flex;
+    justify-content: center;
+   
+    margin-left: 50px;
+    
+   
+}
+.textt h1{
+    margin-top: 75px;
+   line-height: 42px;
+}
+
+.rest img{
+    width: 32%;
+
+}
+
+.textt{
+    padding-top: 84px;
+    padding-bottom: 84px;
+    
+}
+.rest .textt h1{
+    font-size: 36px;
+    
+}
+.rest .textt p{
+    margin-top: 19px;
+}
+.rest .textt img{
+    margin-top: 32px;
+    width: 40%;
+
+}
+.textt .appple{
+    padding-left: 15px;
+
+}
+.phone2{
+    padding-top: 85px;
+}
+
+.footer{
+    
+    display: flex;
+    background-color: #000000;
+   
+    color: white;
+    
+    height: 10%;
+     margin-top: 0px;
+    font-size: 15px;
+    line-height: 40px;
+}
+.colomn{
+    padding: 70px 0px 0px 25px;
+    width: 80%;
+    display: flex;
+    justify-content: center;
+    justify-content: space-around;
+}
+.colomn3{
+    width: 400px;
+}
+#heading{
+    font-size: 15px;
+    letter-spacing: 2px;
+    opacity: 50%;
+    
+}
+.playstore img{
+    margin-top: 78px;
+    margin-left: -35px;
+    height: 65px;
+    width: 110%;
+    border: 1px solid rgb(192, 188, 188);
+    border-radius: 10px;
+}
+.base{
+    padding: 30px;
+    background-color: black;
+    display:flex ;
+    justify-content: space-between;
+    align-items: center;
+    
+}
+.swigggy img{
+    width: 50%;
+    padding-left: 80px;
+}
+.socialmedia{
+    display: flex;
+}
+.socialmedia img{
+    width: 10%;
+    padding-left: 30px;
+}
+
